@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Niraj Prajapati </h1>
-<h3 align="center"> Computer Application Graduate  | Building Projects & Expanding My Skills <</h3>
+<h3 align="center"> Computer Application Graduate  | Building Projects & Expanding My Skills </h3>
 
 -----
 
