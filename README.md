@@ -12,8 +12,8 @@
 -----
 
 ### 🧠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, SQL, Python, C, Bootstrap 
-- **ML/DL:** Scikit-Learn, Pandas, NumPy, TensorFlow, PyTorch  
+- **Languages:** HTML, CSS, JavaScript, Python, SQL,
+- **ML/DL:** Scikit-Learn, Pandas, NumPy, TensorFlow, PyTorch
 - **Computer Vision:** OpenCV 
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL, MongoDB
