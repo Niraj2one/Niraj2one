@@ -29,7 +29,7 @@
 ------
 
 ### 📫 Contact  
-- **Email:** nirajprajapati5431@gmail.com  
+- **Email:** nirajprajapati3369@gmail.com  
 - **GitHub:** https://github.com/Niraj2one
 
 - ⭐ *If you like my work, feel free to star my repositories!*
